@@ -23,7 +23,7 @@ Then, you can go into the src folder and run: (You will need to have Java instal
 
 You can directly download the .zip file from the MediaFire link which contains the .pkg file.
 
-(Add this soon)
+Link: [SC.pkg.zip](https://www.mediafire.com/file/emzvjozx5l557x1/SC-1.0.pkg.zip/file)
 
 ## Author
 Made by [CSWesley](https://github.com/CSWesley)
