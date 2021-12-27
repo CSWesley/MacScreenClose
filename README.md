@@ -9,6 +9,8 @@ It was specifically made for my own use, but you may find some use for it.
 
 The password is "e", so you can't close it without that (or Command + Q).
 
+Why did I do all this for a personal tool?
+
 ## Installation
 #### Method 1
 You can use:
