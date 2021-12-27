@@ -21,7 +21,7 @@ Then, you can go into the src folder and run: (You will need to have Java instal
 
 #### Method 2
 
-You can directly download the .zip file from the GitHub repo which contains the .pkg file.
+You can directly download the .zip file from the MediaFire link which contains the .pkg file.
 
 (Add this soon)
 
