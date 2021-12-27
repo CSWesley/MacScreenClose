@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScreenClose:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScreenClose_jar</output-path>
+    <root id="archive" name="ScreenClose.jar">
+      <element id="module-output" name="ScreenClose" />
+    </root>
+  </artifact>
+</component>
